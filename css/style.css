@@ -3,3 +3,26 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: #f6f8f9;
+}
+.logo-bar {
+    padding: 12px 20px;
+    background-color: white;
+    
+}
+.logo {
+    vertical-align: middle;
+}
+.title {
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 38px;
+}
+.container {
+    width: 1050px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 40px;
+}
