@@ -3,26 +3,59 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body {
     background-color: #f6f8f9;
 }
+
 .logo-bar {
     padding: 12px 20px;
     background-color: white;
-    
 }
+
 .logo {
     vertical-align: middle;
 }
+
 .title {
     font-family: 'Open Sans', sans-serif;
     display: inline-block;
     vertical-align: middle;
     font-size: 38px;
 }
+
 .container {
-    width: 1050px;
+    width: 1000px;
     margin: 0 auto;
     background-color: white;
     margin-top: 40px;
+    border-radius: 5px;
+}
+
+.button-row {
+    padding-top: 14px;
+    padding-left: 60px;
+    padding-bottom: 8px;
+}
+.add-task-button {
+    background-color: #47adf1;
+    color: white;
+    padding: 7px 14px;
+    border: none;
+    border-radius: 5px;
+}
+
+.add-section-button {
+    background-color: white;
+    color: #c5cbd0;
+    padding: 7px 14px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #c5cbd0;
+}
+
+.hr-grey{
+    background-color: #f6f8f9;
+    border: none;
+    height: 2px;
 }
