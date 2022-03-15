@@ -84,6 +84,21 @@ section {
     margin-top: 12px;
 }
 
+.cross {
+    display: inline-block;
+    border: #ea453b;
+    border-style: solid;
+    color: #ea453b;
+    width: 20px;
+    height: 20px;
+    border-radius: 100%;
+    border-width: 1px;
+    text-align: center;
+    line-height: 18px;
+    font-size: 14px;
+    margin-top: 12px;
+}
+
 .post {
     font-size: 16px;
     padding-left: 8px;
@@ -100,4 +115,24 @@ section {
 
 .blue-box {
     background-color: #45abea;
+}
+
+.violet-box {
+    background-color: #9c72e4;
+}
+
+.green-box {
+    background-color: #64c0a9;
+}
+
+.orange-box {
+    background-color: #f29e33;
+}
+
+.pink-box {
+    background-color: #d863a1;
+}
+
+.olive-box {
+    background-color: #b0c926;
 }
